@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/LangChain-%231572B6.svg?style=for-the-badge&logo=langchain&logoColor=white" 
   alt="Langchain">
+  <img src="https://img.shields.io/badge/LangChain-%231572B6.svg?style=for-the-badge&logo=langchain&logoColor=white"
+  alt="LangGraph">
   <br/>
   <br/>
 </p>
