@@ -6,7 +6,7 @@
 <br/>
 <ul>
   <li>I’m a graduate student at JNTUACEK, majoring in Electronics and Communication Engineering.</li>
-  <li>I am currently working as a Generative AI Developer at Miti Sphere Solutions pvt. ltd.</li>
+  <li>I am currently working as a Associate Gen AI Engineer at Gemini Consulting & Services PVT. LTD.</li>
   <li>reach out to me: bogalakalyani@gmail.com.</li>
 </ul>
 <div align="center">
